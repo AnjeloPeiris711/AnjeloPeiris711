@@ -1,4 +1,4 @@
-![Design & Development](https://github.com/AnjeloPeiris711/AnjeloPeris711/blob/main/banner.jpg
+![Design & Development](https://github.com/AnjeloPeiris711/AnjeloPeris711/blob/main/banner.jpg)
 ### Hi there 😁, my name is Anjelo
 #### Design & Development
 
