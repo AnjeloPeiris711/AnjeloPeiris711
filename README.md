@@ -8,8 +8,9 @@ Skills:  JS / HTML / CSS/ PYTHON
 
 - 🔭 I’m currently working on this page. 
 
-
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+<span style="color:red">
+Text content
+</style>
 
 
 
