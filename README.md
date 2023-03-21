@@ -10,7 +10,7 @@ Skills:  JS / HTML / CSS/ PYTHON
 
 <span style="color:red">
 Text content
-</style>
+</span>
 
 
 
