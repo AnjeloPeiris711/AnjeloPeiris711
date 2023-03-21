@@ -1,4 +1,5 @@
-### Hi there 😁, my name is Anjelo ![Design & Development](https://github.com/AnjeloPeiris711/AnjeloPeris711/blob/main/Nick.png) 
+### Hi there 😁, my name is Anjelo 
+![Design & Development](https://github.com/AnjeloPeiris711/AnjeloPeris711/blob/main/Nick.png) 
 #### Design & Development
 
 I'm Anjelo from Sri Lanka, and I do content on Development. I really enjoy learning languages and Hacking , I also enjoy watch cartoons
