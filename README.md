@@ -5,7 +5,7 @@
 
 I'm Anjelo from Sri Lanka, and I do content on Development. I really enjoy learning languages and Hacking , I also enjoy watch cartoons
 
-Skills:  JS / HTML / CSS/ #PYTHON
+Skills:  JS / HTML / CSS/ PYTHON
 
 - 🔭 I’m currently working on this page. 
 
