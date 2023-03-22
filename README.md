@@ -3,10 +3,7 @@
 
 > About Me
 
-```python
-I'm Sri Lankan, and I do content on Development. I really enjoy learning languages and Hacking , I also enjoy watch cartoons
-```
-----
+<p>I am Sri Lankan and I like to try crazy ideas. However i am a cartoon lover.</p>
 
 Skills:  JS / HTML / CSS/ PYTHON
 
