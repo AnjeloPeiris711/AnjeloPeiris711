@@ -3,7 +3,20 @@
 
 > About Me
 
-<p>I am Sri Lankan and I like to try crazy ideas. However i am a cartoon lover.</p>
+<p>I am <span style ="color:yellow;font-weight:bold">Sri Lankan and I like to try crazy ideas. However i am a cartoon lover.</p>
+ 
+<p style = "background-image: linear-gradient(
+        45deg,
+        #CA4246 16.666%, 
+        #E16541 16.666%, 
+        #E16541 33.333%, 
+        #F18F43 33.333%, 
+        #F18F43 50%, 
+        #8B9862 50%, 
+        #8B9862 66.666%, 
+        #476098 66.666%, 
+        #476098 83.333%, 
+        #A7489B 83.333%);">try</p>  
 
 Skills:  JS / HTML / CSS/ PYTHON
 
