@@ -3,7 +3,7 @@
 
 > About Me
 
-<p>I am $\color{orange}{S}$  $\color{red}{r}$ i Lankan and I like to try crazy ideas. However i am a cartoon lover.</p>
+<p>I am $\color{orange}{S}$  $\color{red}{r}$ $\color{green}{i}$ $\color{yellow}{L}$ ankan and I like to try crazy ideas. However i am a cartoon lover.</p>
 ```diff
 + Green
 - Red
