@@ -1,9 +1,12 @@
 ### Hi there 😁, You can call me Anjelo 
 <img align="left" alt="nick" width="325" src = "https://github.com/AnjeloPeiris711/AnjeloPeris711/blob/main/Nick.png">
 
-> About me
+> About Me
 
-I'm Anjelo from Sri Lanka, and I do content on Development. I really enjoy learning languages and Hacking , I also enjoy watch cartoons
+```python
+I'm Sri Lankan, and I do content on Development. I really enjoy learning languages and Hacking , I also enjoy watch cartoons
+```
+----
 
 Skills:  JS / HTML / CSS/ PYTHON
 
