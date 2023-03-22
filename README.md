@@ -3,7 +3,7 @@
 
 > About Me
 
-<p>I am <span style ="color:yellow;font-weight:bold">Sri Lankan and I like to try crazy ideas. However i am a cartoon lover.</p>
+<p>I am $$\color{orange}{Orange}$$ Sri Lankan and I like to try crazy ideas. However i am a cartoon lover.</p>
  
 ```diff
 + Green
@@ -11,6 +11,7 @@
 ! Orange
 @@ Pink @@
 # Gray
+```
 ...
 
 Skills:  JS / HTML / CSS/ PYTHON
