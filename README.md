@@ -10,6 +10,6 @@
 
 Skills:  JS / HTML / CSS/ PYTHON
 
-- 🔭 I’m currently working on this page. 
+  - 🔭 my blog <a>http://junior711.me/</a>
 
 
