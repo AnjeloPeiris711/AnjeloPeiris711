@@ -1,5 +1,5 @@
 ### Hi there 😁, You can call me Anjelo 
-<img align="left" alt="nick" width="325" src = "https://github.com/AnjeloPeiris711/AnjeloPeris711/blob/main/Nick.png">
+  ![Banner](Nick.png)
 
 > About Me
 
